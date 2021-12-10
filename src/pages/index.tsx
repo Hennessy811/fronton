@@ -20,6 +20,7 @@ export default function Home() {
           layout="fill"
           objectFit="cover"
           alt="hero image"
+          priority
         />
         <Box
           position="absolute"
